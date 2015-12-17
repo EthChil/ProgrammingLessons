@@ -1,8 +1,7 @@
 package org.usfirst.frc.team1360.robot;
 
 import edu.wpi.first.wpilibj.Joystick;
-import edu.wpi.first.wpilibj.buttons.Button;
-import org.usfirst.frc.team1360.robot.commands.ExampleCommand;
+
 
 /**
  * This class is the glue that binds the controls on the physical operator
